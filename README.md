@@ -1,3 +1,7 @@
+# Proyecto final Programación IV con React App.
+
+Creado por Eliana Jurado García (https://www.linkedin.com/in/eliana-jurado-garcia-b5b3a9166/) estudiante de Octavo semestre de Ingeniería en Sistemas y Telecomunicaciones de la Universidad de Manizales. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
