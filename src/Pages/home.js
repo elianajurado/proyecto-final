@@ -70,7 +70,57 @@ export default function HomePage(){
                     <p>- Configuración y administración de las plataformas de Comunicación Social y Periodismo
                     <br/>- Creación de sitios web con gestores de contenido y código HTML, CSS y JAVASCRIPT
                     <br/>- Manejo de SEO para las plataformas web
-                    <br/>- Manejo de redes sociales  </p>
+                    <br/>- Manejo de redes sociales  </p><br/>
+                </div>
+            </div>
+            <div className="row">
+                <hr/><br/>
+                <h2 className="text-center">Historia Académica</h2><br/><br/>
+                <div className="col-md-6">
+                    <h3 className="text-primary">Técnica profesional en servicios comerciales web</h3>
+                    <i>Fundación Carlos Slim (México) | 2018</i><br/><br/>
+                    <h3 className="text-primary">Técnica en seguridad informática</h3>
+                    <i>Fundación Carlos Slim (México) | 2018</i><br/><br/>
+                    <h3 className="text-primary">Curso de programación básica</h3>
+                    <i>Platzi |Junio 2018</i><br/><br/>
+                    <h3 className="text-primary">Curso marca personal</h3>
+                    <i>Platzi | Septiembre 2018</i><br/><br/>
+                    <h3 className="text-primary">Marketing Digital</h3>
+                    <i>Google Activate | 2018</i><br/><br/>
+                    <h3 className="text-primary">Tecnóloga en sistemas de información comerciales para internet</h3>
+                    <i>Universidad de Manizales | 2019</i><br/><br/>
+                    <h3 className="text-primary">Curso de fundamentos de ingeniería del software</h3>
+                    <i>Platzi | Junio 2019</i><br/><br/>
+                    <h3 className="text-primary">Curso práctico de Wordpress</h3>
+                    <i>Platzi | Marzo 2021</i><br/><br/>
+                    <h3 className="text-primary">Curso de Programación orientada a objetos</h3>
+                    <i>Platzi | Marzo 2021</i><br/><br/>
+                    <h3 className="text-primary">Curso de Introducción a terminal y línea de comandos</h3>
+                    <i>Platzi | Marzo 2021</i><br/><br/>
+                    <h3 className="text-primary">Curso Introducción a Java SE</h3>
+                    <i>Platzi | Abril 2021</i><br/><br/>
+                </div>
+                <div className="col-md-6">
+                    <h3 className="text-primary">Curso de Java SE orientado a objetos</h3>
+                    <i>Platzi | Abril 2021</i><br/><br/>
+                    <h3 className="text-primary">Curso de Java SE persistencia de datos</h3>
+                    <i>Platzi | Mayo 2021</i><br/><br/>
+                    <h3 className="text-primary">Curso básico de Javascript</h3>
+                    <i>Platzi | Enero 2022</i><br/><br/>
+                    <h3 className="text-primary">Curso de fronted developer</h3>
+                    <i>Platzi | Febrero 2022</i><br/><br/>
+                    <h3 className="text-primary">Curso de closures y scope en Javascript</h3>
+                    <i>Platzi | Febrero 2022</i><br/><br/>
+                    <h3 className="text-primary">Curso de Ecmascript 6+</h3>
+                    <i>Platzi | Abril 2022</i><br/><br/>
+                    <h3 className="text-primary">Curso de asincronismo con Javascript</h3>
+                    <i>Platzi | Abril 2022</i><br/><br/>
+                    <h3 className="text-primary">Curso de gestión de dependencias y paquetes</h3>
+                    <i>Platzi | Abril 2022</i><br/><br/>
+                    <hr></hr>
+                    <h1 className="text-primary">Idiomas que manejo</h1>
+                    <p> <b>Inglés</b> - Nivel alcanzado B2 <br/> Cuatrocientos cuarenta (440) horas <br/> Instituto Meyer - 2015 </p><br/>
+                    <p><b>Francés</b> - Nivel alcanzado B1</p>
                 </div>
             </div>
         </div>

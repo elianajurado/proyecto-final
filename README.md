@@ -1,6 +1,12 @@
 # Proyecto final Programación IV con React App.
 
-Creado por Eliana Jurado García (https://www.linkedin.com/in/eliana-jurado-garcia-b5b3a9166/) estudiante de Octavo semestre de Ingeniería en Sistemas y Telecomunicaciones de la Universidad de Manizales. 
+Creado por Eliana Jurado García (https://www.linkedin.com/in/eliana-jurado-garcia-b5b3a9166/) estudiante de Octavo semestre de Ingeniería en Sistemas y Telecomunicaciones de la Universidad de Manizales.
+
+## Tecnologías usadas
+### Bootstrap
+>Bootstrap es un framework CSS utilizado en aplicaciones front-end
+
+Se usó esta tecnología con el fin de facilitar la ubicación de los elementos y adaptar a cualquier dispositivo esta aplicación
 
 # Getting Started with Create React App
 
