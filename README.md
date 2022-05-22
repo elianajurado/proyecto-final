@@ -1,4 +1,4 @@
-# Proyecto final Programación IV con React App.
+# Proyecto final Programación IV con React App - Hoja de vida.
 
 Creado por Eliana Jurado García (https://www.linkedin.com/in/eliana-jurado-garcia-b5b3a9166/) estudiante de Octavo semestre de Ingeniería en Sistemas y Telecomunicaciones de la Universidad de Manizales.
 
@@ -16,6 +16,9 @@ Se usó esta tecnología con el fin de facilitar la ubicación de los elementos 
 
 ## Javascript
 >JavaScript es el único lenguaje de programación que funciona en los navegadores de forma nativa (lenguaje interpretado sin necesidad de compilación). Por tanto se utiliza como complemento de HTML y CSS para crear páginas webs.
+
+## React Js
+>Es una librería open source de JavaScript para desarrollar interfaces de usuario. Fue lanzada en el año 2013 y desarrollada por Facebook, quienes también la mantienen actualmente junto a una comunidad de desarrolladores independientes y compañías.
 
 # Getting Started with Create React App
 
