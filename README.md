@@ -8,6 +8,15 @@ Creado por Eliana Jurado García (https://www.linkedin.com/in/eliana-jurado-garc
 
 Se usó esta tecnología con el fin de facilitar la ubicación de los elementos y adaptar a cualquier dispositivo esta aplicación
 
+## HTML
+>HTML es el lenguaje con el que se define el contenido de las páginas web. Básicamente se trata de un conjunto de etiquetas que sirven para definir el texto y otros elementos que compondrán una página web, como imágenes, listas, vídeos, etc.
+
+## CSS
+>CSS son las siglas en inglés para «hojas de estilo en cascada» (Cascading Style Sheets). Básicamente, es un lenguaje que maneja el diseño y presentación de las páginas web. Funciona junto con el lenguaje HTML que se encarga del contenido básico de las páginas.
+
+## Javascript
+>JavaScript es el único lenguaje de programación que funciona en los navegadores de forma nativa (lenguaje interpretado sin necesidad de compilación). Por tanto se utiliza como complemento de HTML y CSS para crear páginas webs.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
