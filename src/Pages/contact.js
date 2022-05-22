@@ -4,6 +4,7 @@ export default function Contact(){
     return(
         <div class="contenedor">
             <div className="containter">
+                <br/><h2 className="text-center">Contáctate conmigo</h2>
                 <div className="row">
                     <div className="col-md-2"/>
                     <div className="col-md-8">
